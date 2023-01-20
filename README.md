@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shadlia
-- 👀 I’m interested in data science, machine learning , deep learning and artificial intelligence
-- 🌱 I’m currently learning different deep learning algorithms for anomaly detection 
-- 💞️ I’m looking to collaborate on anomaly detection using deep learning projetcs 
+- 👀 I’m interested in data science, machine learning and web dev 
+- 🌱 I’m currently a computer science eng student
+- 💞️ I’m looking to gain new experience in computer science filed
 - 📫 How to reach me :
     - linkedin : https://www.linkedin.com/in/shadlia-el-amri-aa97211b4/
 

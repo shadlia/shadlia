@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shadlia
-- 👀 I’m interested in data science, machine learning and web dev 
+- 👀 I’m interested in data science, sofware engineering  and web dev 
 - 🌱 I’m currently a software engineering student
 - 💞️ I’m looking to gain new experience in computer science and web dev fileds
 - 💻 currently learning MERN(MongoDB, Express, React, Node)

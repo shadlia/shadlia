@@ -1,5 +1,5 @@
 
-# 👩‍💻 Welcome to My Coding Castle! 🚀
+# 👩‍💻 Welcome to My Coding Castle! 🏰
 
 Hey there, I'm Shadlia, a passionate 22 years old  software engineering student and web developer who loves building digital wonders. 👩‍💼
 
@@ -23,6 +23,7 @@ I'm on a mission to make the web a more beautiful and functional place, one line
 ## Let's Connect 🌐
 
 - 💬 [LinkedIn](https://www.linkedin.com/in/shadlia-el-amri-aa97211b4/)
+- 📧 [Email](shadliaelamri@gmail.com)
 
 Let's collaborate, innovate, and build the future together. Reach out, and let's create some digital magic! 💫✨
 

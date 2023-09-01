@@ -6,17 +6,18 @@ Hey there, I'm Shadlia, a passionate 22 years old  software engineering student 
 ## About Me
 
 - 🌐 Full-Stack Web Developer
-- 💡 Problem-Solver Extraordinaire
+- 📚  Software Engineering Student
+- 💡 Problem-Solver 
 - 💻 Code Enthusiast
 - 🌟 Lifelong Learner
 
 I'm on a mission to make the web a more beautiful and functional place, one line of code at a time. I specialize in:
 
 - 🚀 JavaScript & ES6+ & Php
-- ⚛️ React & Redux
-- 📦 Node.js & Express
-- 🌐 HTML5 & CSS3
-- 💾 MongoDB & Mongoose & Postgresql 
+- ⚛️ React 
+- 📦 Node.js & Express & Nest.js
+- 🌐 HTML5 & CSS3 & Mantine 
+- 💾 MongoDB & Mongoose & PostgreQSL
 
 
 ## Let's Connect 🌐

@@ -1,12 +1,31 @@
-- 👋 Hi, I’m @shadlia
-- 👀 I’m interested in data science, sofware engineering  and web dev 
-- 🌱 I’m currently a software engineering student
-- 💞️ I’m looking to gain new experience in computer science and web dev fileds
-- 💻 currently learning MERN(MongoDB, Express, React, Node)
-- 📫 How to reach me :
-    - linkedin : https://www.linkedin.com/in/shadlia-el-amri-aa97211b4/
 
-<!---
-shadlia/shadlia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👩‍💻 Welcome to My Coding Castle! 🚀
+
+Hey there, I'm Shadlia, a passionate 22 years old  software engineering student and web developer who loves building digital wonders. 👩‍💼
+
+## About Me
+
+- 🌐 Full-Stack Web Developer
+- 💡 Problem-Solver Extraordinaire
+- 💻 Code Enthusiast
+- 🌟 Lifelong Learner
+
+I'm on a mission to make the web a more beautiful and functional place, one line of code at a time. I specialize in:
+
+- 🚀 JavaScript & ES6+
+- ⚛️ React & Redux
+- 📦 Node.js & Express
+- 🌐 HTML5 & CSS3
+- 💾 MongoDB & Mongoose & Postgresql 
+
+
+## Let's Connect 🌐
+
+- 💬 [LinkedIn](https://www.linkedin.com/in/shadlia-el-amri-aa97211b4/)
+
+Let's collaborate, innovate, and build the future together. Reach out, and let's create some digital magic! 💫✨
+
+Thanks for stopping by! 💖
+
+
+

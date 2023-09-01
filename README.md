@@ -12,7 +12,7 @@ Hey there, I'm Shadlia, a passionate 22 years old  software engineering student 
 
 I'm on a mission to make the web a more beautiful and functional place, one line of code at a time. I specialize in:
 
-- 🚀 JavaScript & ES6+
+- 🚀 JavaScript & ES6+ & Php
 - ⚛️ React & Redux
 - 📦 Node.js & Express
 - 🌐 HTML5 & CSS3

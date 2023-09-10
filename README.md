@@ -21,14 +21,9 @@ I'm on a mission to make the web a more beautiful and functional place, one line
 - 🌐 HTML5 & CSS3 & Mantine 
 - 💾 MongoDB & Mongoose & PostgreQSL
   
-- ![JavaScript](https://iconify.design/icon-sets/simple-icons:javascript.svg) JavaScript
-- ![React](https://iconify.design/icon-sets/simple-icons:react.svg) React
-- ![Node.js](https://iconify.design/icon-sets/simple-icons:node-dot-js.svg) Node.js
-- ![HTML5](https://iconify.design/icon-sets/simple-icons:html5.svg) HTML5
-- ![CSS3](https://iconify.design/icon-sets/simple-icons:css3.svg) CSS3
-- ![MongoDB](https://iconify.design/icon-sets/simple-icons:mongodb.svg) MongoDB
-- ![PostgreSQL](https://iconify.design/icon-sets/simple-icons:postgresql.svg) PostgreSQL
-- ![Nest.js](https://iconify.design/icon-sets/simple-icons:nestjs.svg) Nest.js
+
+-![Nodejs](https://img.shields.io/badge/-Node-05122A?style=for-the-badge&color=302d41&logo=node.js&logoColor=3c873a)
+
 
 ## Let's Connect 🌐
 

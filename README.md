@@ -44,7 +44,7 @@ I'm on a mission to make the web a more beautiful and functional place, one line
 
 ## Other Academic Projects 📚
 I also worked on serval not Web academic projects, including :
-- 💻 Desktop Application : developped Online games store application (Epic Games clone) using Java. [Check it out here ](https://github.com/shadlia/Epic-Games-Clone) 
+- 💻 Desktop Application : developped Online games store application (Epic Games clone) using Java. [Check it out here](https://github.com/shadlia/Epic-Games-Clone) 
 - 🤖 Machine learning : Anomaly detection in fences algorithem using python and unsupervised learning. [Check it out here](https://github.com/shadlia/anomaly_detection_fences.git)
 
 ## What I'm Working On Now 🔧

@@ -45,7 +45,7 @@ I'm on a mission to make the web a more beautiful and functional place, one line
 
 Here are some of the personal projects I've been working on:
 
-- 🗨️ **Chat Application**: A real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js). [Check it out here](https://github.com/shadlia/chat-application)
+- 🗨️ **Chat Application**: A real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js). [Check it out here](https://github.com/shadlia/Chatty)
 - 🍲 **Food Swap App**: A real-time food swap web application using Nest.js, React, and PostgreSQL. [Check it out here](https://github.com/shadlia/food-swap-app)
 
 ## Other Academic Projects 📚

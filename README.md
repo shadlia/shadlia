@@ -1,7 +1,9 @@
-<h1 align="center">🧙‍♀️ Welcome to My Hogwarts of AI & Web Development! 🏰✨</h1>
+
 <p align="center">
-    <img src="https://i.imgur.com/DKpDIBY.jpeg" alt="Cover Image" height="300px" width="100%" style="border-radius: 15px;">
+    <h1 align="center">🧙‍♀️ Welcome to My Hogwarts of AI & Web Development! 🏰✨</h1>
+    <img src="https://i.imgur.com/DKpDIBY.jpeg" alt="Cover Image" height="400px" width="100%" style="border-radius: 15px;">
 </p>
+
 
 <div align="center">
   

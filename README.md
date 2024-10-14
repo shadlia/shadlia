@@ -1,19 +1,14 @@
 
 <p align="center">
-    <h1 align="center">🧙‍♀️ Welcome to My Hogwarts of AI & Web Development! 🏰✨</h1>
-    <img src="https://i.imgur.com/DKpDIBY.jpeg" alt="Cover Image" height="400px" width="100%" style="border-radius: 15px;">
-</p>
-
-
-<div align="center">
+    <h1 align="center")>🧙‍♀️ Welcome to My Hogwarts of AI & Web Development! 🏰✨</h1>
+    <img src="https://i.imgur.com/DKpDIBY.jpeg" alt="Cover Image" height="300px" width="100%" style="border-radius: 15px;">
+    <div align="center">
   
 | I'm Chadlia, a 23-year-old software engineering student, and a sorceress in the realms of AI and web development. With my wand (keyboard) in hand, I cast spells of code to create digital magic! | <img src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" alt="Development GIF" width="250px"> |
 | :---: | --- |
 
 </div>
-
-
-
+</p>
 
 
 
